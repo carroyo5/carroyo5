@@ -1,4 +1,16 @@
 ## 👋 Hi there!
+I'm Cristhian Arroyo a passionate Database Administrator and developer from Panama.
+I specialize in managing, optimizing, and securing SQL Server and PostgreSQL environments.
+
+### 🧩 What I work on
+- 🗃️ Database administration (SQL Server, PostgreSQL, Aurora) 
+- ⚙️ Performance tuning, indexing, and query optimization 
+- 🧪 Data integrity, backup strategies and disaster recovery 
+- 🔐 Role-based access control and security auditing
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL logo" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server logo" width="40" height="40" title="Microsoft SQL Server"/>
+</p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img 
@@ -19,17 +31,3 @@
     alt="Top languages used by carroyo5"
   />
 </p>
-
-<!--**carroyo5/carroyo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
-
