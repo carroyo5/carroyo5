@@ -4,7 +4,7 @@
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carroyo5u&show_icons=true&theme=gotham" alt="GitHub Stats for carroyo5u" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carroyo5&show_icons=true&theme=gotham" alt="GitHub Stats for carroyo5" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ### 🔤 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carroyo5u&layout=compact&theme=gotham" alt="Top languages used by carroyo5u" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carroyo5&layout=compact&theme=gotham" alt="Top languages used by carroyo5" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carroyo5u&theme=gotham" alt="GitHub contribution streak of carroyo5u" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carroyo5&theme=gotham" alt="GitHub contribution streak of carroyo5" />
 </p>
 
 
