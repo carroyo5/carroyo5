@@ -1,27 +1,40 @@
-## Hi there 👋
-📈 my github stats
+## 👋 Hi there!
 
-### 📈 My GitHub Stats
+Welcome to my GitHub profile!
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carroyo5&show_icons=true&theme=gotham" alt="GitHub Stats for carroyo5" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=carroyo5&show_icons=true&theme=default&title_color=5da0d7&text_color=936daa&icon_color=cd9af9&bg_color=f2f2f2"
+    alt="GitHub Stats for carroyo5"
+  />
 </p>
 
 ---
 
-### 🔤 Most Used Languages
+## 🔤 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carroyo5&layout=compact&theme=gotham" alt="Top languages used by carroyo5" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carroyo5&layout=compact&theme=default&title_color=5da0d7&text_color=936daa&bg_color=f2f2f2"
+    alt="Top languages used by carroyo5"
+  />
 </p>
 
 ---
 
-### 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carroyo5&theme=gotham" alt="GitHub contribution streak of carroyo5" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=carroyo5&theme=default&ring=cd9af9&fire=cd9af9&currStreakLabel=5da0d7&sideLabels=936daa&sideNums=936daa&dates=936daa&background=f2f2f2"
+    alt="GitHub contribution streak of carroyo5"
+  />
 </p>
+
 
 
 <!--**carroyo5/carroyo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
