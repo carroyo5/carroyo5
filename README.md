@@ -1,9 +1,5 @@
 ## 👋 Hi there!
 
----
-
-## 📊 GitHub Stats & Streak
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=carroyo5&show_icons=true&theme=default&title_color=5da0d7&text_color=936daa&icon_color=cd9af9&bg_color=f2f2f2"
@@ -16,10 +12,6 @@
     height="180"
   />
 </div>
-
----
-
-## 🔤 Top Languages
 
 <p align="center">
   <img 
