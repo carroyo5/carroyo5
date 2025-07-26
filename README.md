@@ -1,5 +1,27 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carroyo5&show_icons=true&theme=radical)
+📈 my github stats
+
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carroyo5u&show_icons=true&theme=gotham" alt="GitHub Stats for carroyo5u" />
+</p>
+
+---
+
+### 🔤 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carroyo5u&layout=compact&theme=gotham" alt="Top languages used by carroyo5u" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carroyo5u&theme=gotham" alt="GitHub contribution streak of carroyo5u" />
+</p>
 
 
 <!--**carroyo5/carroyo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
