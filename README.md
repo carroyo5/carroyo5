@@ -1,17 +1,21 @@
 ## 👋 Hi there!
 
-Welcome to my GitHub profile!
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streak
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=carroyo5&show_icons=true&theme=default&title_color=5da0d7&text_color=936daa&icon_color=cd9af9&bg_color=f2f2f2"
     alt="GitHub Stats for carroyo5"
+    height="180"
   />
-</p>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=carroyo5&theme=default&ring=cd9af9&fire=cd9af9&currStreakLabel=5da0d7&sideLabels=936daa&sideNums=936daa&dates=936daa&background=f2f2f2"
+    alt="GitHub contribution streak of carroyo5"
+    height="180"
+  />
+</div>
 
 ---
 
@@ -23,19 +27,6 @@ Welcome to my GitHub profile!
     alt="Top languages used by carroyo5"
   />
 </p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=carroyo5&theme=default&ring=cd9af9&fire=cd9af9&currStreakLabel=5da0d7&sideLabels=936daa&sideNums=936daa&dates=936daa&background=f2f2f2"
-    alt="GitHub contribution streak of carroyo5"
-  />
-</p>
-
-
 
 <!--**carroyo5/carroyo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
