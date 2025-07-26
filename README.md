@@ -4,12 +4,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=carroyo5&show_icons=true&theme=default&title_color=5da0d7&text_color=936daa&icon_color=cd9af9&bg_color=f2f2f2"
     alt="GitHub Stats for carroyo5"
-    height="180"
+    height="160"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=carroyo5&theme=default&ring=cd9af9&fire=cd9af9&currStreakLabel=5da0d7&sideLabels=936daa&sideNums=936daa&dates=936daa&background=f2f2f2"
     alt="GitHub contribution streak of carroyo5"
-    height="180"
+    height="160"
   />
 </div>
 
