@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm Cristhian Arroyo a passionate Database Administrator and developer from Panama.
+I'm Cristhian Arroyo a passionate Database Administrator and developer from Panama.  
 I specialize in managing, optimizing, and securing SQL Server and PostgreSQL environments.
 
 ### 🧩 What I work on
