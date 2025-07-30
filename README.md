@@ -3,13 +3,14 @@ I'm Cristhian Arroyo a passionate Database Administrator and developer from Pana
 I specialize in managing, optimizing, and securing SQL Server and PostgreSQL environments.
 
 ### 🧩 What I work on
-- 🗃️ Database administration (SQL Server, PostgreSQL, Aurora) 
+- 🗃️ Database administration (SQL Server, PostgreSQL, Aurora, Redshift)
 - ⚙️ Performance tuning, indexing, and query optimization 
 - 🧪 Data integrity, backup strategies and disaster recovery 
 - 🔐 Role-based access control and security auditing
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL logo" width="40" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server logo" width="40" height="40" title="Microsoft SQL Server"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Amazon-Redshift-Logo.svg/436px-Amazon-Redshift-Logo.svg.png" alt="Amazon Redshift logo" width="40" height="40" title="Amazon Redshift"/>
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
